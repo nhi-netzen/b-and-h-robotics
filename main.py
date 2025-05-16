@@ -17,7 +17,7 @@ import zipfile
 from PIL import Image
 
 # Upload file
-filename = "/data.zip"
+filename = "data.zip"
 with zipfile.ZipFile(filename, 'r') as zip_ref:
     zip_ref.extractall('/extracted_files')
 
