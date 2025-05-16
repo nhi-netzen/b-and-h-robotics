@@ -1,0 +1,12 @@
+[
+    {"label":"ca_kho","price":15000},
+    {"label":"canh_cai","price":5000},
+    {"label":"canh_chua","price":5000},
+    {"label":"com_trang","price":5000},
+    {"label":"dau_hu_sot_ca","price":7000},
+    {"label":"ga_chien","price":25000},
+    {"label":"rau_muong_xao","price":15000},
+    {"label":"thit_kho","price":20000},
+    {"label":"thit_kho_trung","price":30000},
+    {"label":"trung_chien","price":10000} 
+]

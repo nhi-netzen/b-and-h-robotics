@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['ca_kho', 'canh_cai', 'canh_chua', 'com_trang', 'dau_hu_sot_ca', 'ga_chien', 'rau_muong_xao', 'thit_kho', 'thit_kho_trung', 'trung_chien']
+
+roboflow:
+  workspace: nhii
+  project: menu-ueh
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nhii/menu-ueh/dataset/6
